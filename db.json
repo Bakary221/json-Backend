@@ -184,17 +184,6 @@
     }
   ],
   "groupMessages": [
-    {
-      "id": 201,
-      "groupId": 1,
-      "senderId": 2,
-      "content": "Bienvenue dans le groupe !",
-      "timestamp": "23:23",
-      "type": "text",
-      "seenBy": [
-        2
-      ],
-      "seen": false
-    }
+   
   ]
 }
